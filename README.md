@@ -25,7 +25,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 <img src='https://github.com/JamesFlippin/JamesFlippin/blob/main/Me%20Teaching_Small.png' alt='Me Teaching In Person @ TSTC'>
 
@@ -38,7 +37,7 @@
 
 - **Senior Information Technology Specialist (Retired)** - Senior System Administrator, Senior Network Administrator, System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
 
-- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
+- **Veteran** - <img width='25' height='25' src='https://github.com/TexasPaladin/TexasPaladin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/TexasPaladin/TexasPaladin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
 
 - **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
@@ -48,7 +47,7 @@
 
 - **Hardware Skills:** Hardware maintenance and trouble shooting, Network trouble maintenance and shooting, VOIP maintenance and trouble shooting, PC maintenance and trouble shooting, PC from scratch build, Network and non-networked printer maintenance and trouble shooting, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexasPaladin&theme=synthwave)
 
 - 🔭 I’m currently working on transitioning to Performance Based Education (PBE)
 - 🌱 I’m currently learning everything I can (Xamarin, Backpacking/camping skills, etc.)
@@ -58,12 +57,12 @@
 - 📫 How to reach me: james.flippin@tstc.edu 
 - ⚡ Fun fact: I like camping, hiking and backpacking 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamesflippin.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://TexasPaladin.github.io/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexasPaladin&show_icons=true&theme=synthwave)
 
-![GitHub metrics](https://metrics.lecoq.io/JamesFlippin)  
+![GitHub metrics](https://metrics.lecoq.io/TexasPaladin)  
 
-![Profile views](https://gpvc.arturio.dev/JamesFlippin)  
+![Profile views](https://gpvc.arturio.dev/TexasPaladin)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TexasPaladin)](https://github.com/ryo-ma/github-profile-trophy)
